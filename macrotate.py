@@ -1,5 +1,3 @@
-# https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6
-# https://stackoverflow.com/questions/44684764/how-to-type-sudo-password-when-using-subprocess-call
 import os
 import re
 import subprocess
