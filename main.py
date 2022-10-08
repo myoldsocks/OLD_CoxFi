@@ -121,7 +121,6 @@ def macro():
 
 def pavlov():
     auto.alert('MAC rotation about to start.\n\nClick OK to continue.')
-    # https://pyautogui.readthedocs.io/en/latest/quickstart.html#message-box-functions
     time.sleep(120)
     macro()
 
